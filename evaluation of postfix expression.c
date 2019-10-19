@@ -18,7 +18,7 @@ int main()
         char exp[20];
         char *e;
         int n1,n2,n3,num;
-        printf("\n\n\t ENTER THE POSTFIX EXPRESSION : ");
+        printf("\n\n\t ENTER  THE POSTFIX EXPRESSION : ");
         scanf("%s",exp);
         e = exp;
         while(*e != '\0')
